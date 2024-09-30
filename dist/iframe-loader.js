@@ -1,7 +1,7 @@
 // iframe-loader.js
 (function () {
   var iframe = document.createElement("iframe");
-  iframe.src = "https://publicfrank1234.github.io/widget/dist/iframe-loader.js";
+  iframe.src = "https://publicfrank1234.github.io/widget/dist/widget.html";
   iframe.style.width = "300px";
   iframe.style.height = "400px";
   iframe.style.position = "fixed";
